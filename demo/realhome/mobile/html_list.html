@@ -7,7 +7,9 @@
 <script type="text/javascript" src="../js/jquery-treeview/lib/jquery.js"></script>
 <style>
 *{margin:0;padding:0;font-size:12px;}
-h1{min-width:600px;padding:16px; margin-bottom: 20px; font-size:12px;background: #e6e6e6;color:#000;letter-spacing:-0.05em;}
+.head{min-width:600px;padding:16px; margin-bottom: 20px; background: #e6e6e6;color:#000;letter-spacing:-0.05em;}
+.head h1{margin-bottom: 4px; font-size:14px;}
+.head p{font-size: 12px;}
 .tit{padding:40px 20px 20px; font-size: 20px;}
 img {margin-right:20px;vertical-align: middle;}
 .note{margin:15px; padding:10px; border:2px dotted #000; background:#eee;}
@@ -27,120 +29,9 @@ a:hover {text-decoration: underline;}
 </style>
 </head>
 <body>
-    <h1>리얼하우스 Mobile 가이드</h1>
-    <!--Resource-->
-    <div class="guide_board">
-        <h2 class="tit">CSS, JavaScript Resources</h2>
-        <div class="tab_content">
-            <table>
-                <colgroup>
-                    <col width="12%">
-                    <col width="12%">
-                    <col width="12%">
-                    <col width="30%">
-                    <col width="*">
-                </colgroup>
-                <thead>
-                    <tr>
-                        <th colspan="2">Type</th>
-                        <th>Directory</th>
-                        <th>Fimename</th>
-                        <th>memo</th>
-                    </tr>                      
-                </thead>
-                <tbody>
-                    <tr>
-                        <th rowspan="6">Css</th>
-                        <td>공통</td>
-                        <td>/dist/css/</a></td>
-                        <td><a href="./dist/css/font.min.css" target="_blank">font.min.css</a></td>
-                        <td>폰트css</td>
-                    </tr>
-                    <tr>
-                        <td>공통</td>
-                        <td>/dist/css/</a></td>
-                        <td><a href="./dist/css/common.min.css" target="_blank">common.min.css</a></td>
-                        <td>공통,푸터,메인</td>
-                    </tr>
-                    <tr>
-                        <td>공통</td>
-                        <td>/dist/css/plugin</a></td>
-                        <td><a href="./dist/css/plugin/swiper.min.css" target="_blank">swiper.min.css</a></td>
-                        <td>swiper플러그인</td>
-                    </tr>
-                    <tr>
-                        <td>Sub</td>
-                        <td rowspan="3">/dist/css/</a></td>
-                        <td><a href="./dist/css/layout.min.css" target="_blank">layout.min.css</a></td>
-                        <td>Sub 공통레이아웃</td>
-                    </tr>
-                    <tr>
-                        <td>Sub</td>
-                        <td><a href="./dist/css/style.min.css" target="_blank">style.min.css</a></td>
-                        <td>Sub css</td>
-                    </tr>
-                    <tr>
-                        <td>Sub</td>
-                        <td><a href="./dist/css/style_mq.min.css" target="_blank">style_mq.min.css</a></td>
-                        <td>미디어쿼리 css</td>
-                    </tr>
-                    <tr>
-                        <th rowspan="5">Javascript</th>
-                        <td rowspan="4">공통</td>
-                        <td>/dist/js/</td>
-                        <td><a href="./dist/js/3.3.1.min.js" target="_blank">3.3.1.min.js</td>
-                        <td>jquery 3.3.1버전</td>
-                    </tr>
-                    <tr>
-                        <td>/dist/js/</td>
-                        <td><a href="./dist/js/common.min.js" target="_blank">common.min.js</a></td>
-                        <td>공통,푸터,메인</td>
-                    </tr>
-                    <tr>
-                        <td>/dist/js/plugin/</td>
-                        <td><a href="./dist/js/plugin/swiper.min.js" target="_blank">swiper.min.js</a></td>
-                        <td>swiper플러그인</td>
-                    </tr>
-                    <tr>
-                        <td>/dist/js/</td>
-                        <td><a href="./dist/js/ui.min.js" target="_blank">ui.min.js</a></td>
-                        <td>swiper ui</td>
-                    </tr>      
-                    <tr>
-                        <td>Sub</td>
-                        <td>/dist/js/</td>
-                        <td><a href="./dist/js/sub.min.js" target="_blank">sub.min.js</a></td>
-                        <td>Sub js</td>
-                    </tr>                    
-                </tbody>
-            </table>
-        </div>
-    </div>
-    <!--//Resource-->
-    <div class="guid_board">
-        <h2 class="tit">Guide list</h2>
-        <div class="table_box">
-            <table class="tb">
-                <colgroup>
-                    <col width="20%">
-                    <col width="*">
-                </colgroup>
-                <tbody>
-                    <tr>
-                        <th>헤더,푸터 가이드</th>
-                        <td><a href="./guide/header_footer_guide.html" target="_blank">./guide/header_footer_guide.html</a></td>
-                    </tr>
-                    <tr>
-                        <th>레이아웃 가이드</th>
-                        <td><a href="./guide/layout_guide.html" target="_blank">./guide/layout_guide.html</a></td>
-                    </tr>
-                    <tr>
-                        <th>버튼 가이드</th>
-                        <td><a href="./guide/button_guide.html" target="_blank">./guide/button_guide.html</a></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+    <div class="head">
+        <h1>리얼하우스 Mobile App 가이드</h1>
+        <p>* 매물 제공 사이트</p>
     </div>
     <!--공통-->
     <h2 class="tit">공통</h2>
