@@ -1,0 +1,467 @@
+@charset "UTF-8";
+.btn_close { display: inline-block; width: 11px; height: 11px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -55px -135px; background-size: 175px 151.5px; }
+.btn_close2 { display: inline-block; width: 16.5px; height: 16.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -135px; background-size: 175px 151.5px; }
+.btn_else_arr { display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -161.5px -98px; background-size: 175px 151.5px; }
+.btn_infomation { display: inline-block; width: 21.5px; height: 21.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -80.5px; background-size: 175px 151.5px; }
+.btn_minus { display: inline-block; width: 17px; height: 17px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -100px; background-size: 175px 151.5px; }
+.btn_open_bill { display: inline-block; width: 40px; height: 15.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px 0px; background-size: 175px 151.5px; }
+.btn_plus { display: inline-block; width: 17px; height: 17px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -70px; background-size: 175px 151.5px; }
+.btn_pop_kakao { display: inline-block; width: 27.5px; height: 27.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -35px -100px; background-size: 175px 151.5px; }
+.btn_pop_sms { display: inline-block; width: 27.5px; height: 27.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -67.5px -100px; background-size: 175px 151.5px; }
+.btn_remove { display: inline-block; width: 11px; height: 11px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -39px -135px; background-size: 175px 151.5px; }
+.btn_sns_happy { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px 0px; background-size: 175px 151.5px; }
+.btn_sns_happy3 { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -50px; background-size: 175px 151.5px; }
+.btn_sns_kakao { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -35px; background-size: 175px 151.5px; }
+.btn_sns_kakao3 { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px 0px; background-size: 175px 151.5px; }
+.btn_sns_naver { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -100px; background-size: 175px 151.5px; }
+.btn_sns_naver3 { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px 0px; background-size: 175px 151.5px; }
+.btn_tit_arr { display: inline-block; width: 7.5px; height: 4.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -62px; background-size: 175px 151.5px; }
+.ico_caution { display: inline-block; width: 20px; height: 20px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -107px; background-size: 175px 151.5px; }
+.ico_checkpoint { display: inline-block; width: 9px; height: 6.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -50.5px; background-size: 175px 151.5px; }
+.ico_chk_off { display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -161.5px -80.5px; background-size: 175px 151.5px; }
+.ico_chk_on { display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -21.5px -135px; background-size: 175px 151.5px; }
+.ico_comfirm { display: inline-block; width: 12.5px; height: 9px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px -86px; background-size: 175px 151.5px; }
+.ico_guide { display: inline-block; width: 5.5px; height: 11px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -33.5px; background-size: 175px 151.5px; }
+.ico_person { display: inline-block; width: 14px; height: 15px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -160px -107px; background-size: 175px 151.5px; }
+.ico_placetime { display: inline-block; width: 10.5px; height: 10.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -71px -135px; background-size: 175px 151.5px; }
+.ico_plus { display: inline-block; width: 8px; height: 8px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -20.5px; background-size: 175px 151.5px; }
+.ico_sel_arr { display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; }
+.ico_star_off { display: inline-block; width: 25px; height: 25px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -50.5px; background-size: 175px 151.5px; }
+.ico_star_on { display: inline-block; width: 25px; height: 25px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -20.5px; background-size: 175px 151.5px; }
+.img_complete { display: inline-block; width: 31px; height: 31px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px -50px; background-size: 175px 151.5px; }
+.sec-box { position: relative; margin-top: 5px; }
+.sec-box:before { position: absolute; left: 0; top: -4px; display: block; width: 100%; height: 4px; content: ''; background: #f8f8f8; }
+.sec-box:after { position: absolute; left: 0; top: -5px; display: block; width: 100%; height: 1px; content: ''; background: #e6e6e6; }
+.sec-box.is-open .sec-tit a:after { -webkit-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg); }
+.sec-box.is-open .sec-con { display: block; }
+.sec-tit { height: 2.8125rem; line-height: 2.8125rem; padding: 0 23px; font-size: 0.9375rem; color: #333; font-weight: bold; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.sec-tit a { position: relative; display: block; width: 100%; height: 100%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.sec-tit a:after { position: absolute; right: 0; top: 50%; display: inline-block; width: 7.5px; height: 4.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -62px; background-size: 175px 151.5px; margin-top: -2px; content: ''; -webkit-transition: all .3s; transition: all .3s; }
+.sec-tit span { font-weight: normal; }
+.sec-con { display: none; padding: 0 23px 12px; font-size: 0.875rem; }
+.sec-con .btn-link { position: absolute; right: 0; top: 0; display: block; width: 2.8125rem; height: 2.8125rem; line-height: 2.8125rem; }
+.sec-con .btn-link:after { position: absolute; right: 23px; top: 50%; display: inline-block; width: 7.5px; height: 4.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -62px; background-size: 175px 151.5px; content: ''; margin-top: -4px; -webkit-transform: rotate(270deg); -ms-transform: rotate(270deg); transform: rotate(270deg); }
+.lst-txt { margin: 6px 0 6px; }
+.lst-txt li { position: relative; margin: 0 0 5px; padding-left: 8px; }
+.lst-txt li:after { position: absolute; left: 0; top: 0.5625rem; display: block; width: 2px; height: 2px; border-radius: 100%; background: #333; content: ''; }
+.pop-reserve { background-color: #fff; }
+.pop-reserve .pop-wrap { height: 100%; }
+.pop-reserve .pop-tit { width: 100%; min-height: 45px; padding: 11px 45px 10px 19px; color: #333; background: #fff; border-bottom: 1px solid #e6e6e6; }
+.pop-reserve .pop-tit .head { display: block; font-weight: bold; font-size: 1rem; }
+.pop-reserve .pop-tit .close { position: absolute; right: 0; top: 0; display: block; width: 45px; height: 45px; padding: 14px; font-size: 0; }
+.pop-reserve .pop-tit .close:before { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 20px; height: 1px; background: #000; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); }
+.pop-reserve .pop-tit .close:after { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 20px; height: 1px; background: #000; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.pop-reserve .pop-con { display: block; width: 100%; height: 100%; padding: 26px 15px 60px; overflow: hidden; overflow-y: auto; -webkit-overflow-scrolling: touch; word-break: break-all; font-size: 0.875rem; }
+.pop-reserve .pop-con dt, .pop-reserve .pop-con .tit { margin: 0 0 5px; color: #333; }
+.pop-reserve .pop-con dd, .pop-reserve .pop-con p { margin: 0 0 15px; color: #555; }
+.pop-reserve .pop-con table { table-layout: fixed; margin: 0 0 15px; border: 1px solid #ccc; border-top: 2px solid #888; border-collapse: collapse; }
+.pop-reserve .pop-con table th { padding: 5px 5px 7px; font-weight: bold; text-align: center; border: 1px solid #ccc; vertical-align: top; }
+.pop-reserve .pop-con table td { padding: 5px 5px 7px; border: 1px solid #ccc; vertical-align: top; }
+.pop-reserve .pop-con .em { color: #f54a36; }
+.resr-view-talk { position: fixed; right: 15px; top: 50%; margin-top: -1.3125rem; z-index: 1; }
+.resr-view-talk > a { position: relative; display: block; width: 2.6875rem; height: 2.6875rem; line-height: 2.6875rem; border-radius: 100%; border: 1px solid #e7e7e7; background-color: rgba(255, 255, 255, 0.9); color: #18af6c; text-decoration: none; font-size: 0.625rem; text-align: center; overflow: hidden; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15); }
+.resr-view-talk > a .lst_item { display: inline-block; width: 2.6875rem; margin-top: -5px; line-height: 1.35; font-weight: bold; vertical-align: middle; }
+.talk-select-pop { position: fixed; top: 50%; left: 50%; display: none; width: 100%; height: 100%; z-index: 1000; -webkit-transform: translate3d(-50%, -50%, 0); transform: translate3d(-50%, -50%, 0); }
+.talk-select-pop .pop-wrap { position: absolute; left: 0; top: 50%; display: block; width: 100%; }
+.talk-select-pop .lst-counsel { position: relative; margin-top: -1.3125rem; text-align: right; padding: 0 3.9375rem; }
+.talk-select-pop .lst-counsel li { display: inline-block; }
+.talk-select-pop .lst-counsel a { display: block; }
+.talk-select-pop .lst-counsel a:after { vertical-align: top; }
+.talk-select-pop .lst-counsel a.btn-kakao:after { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px 0px; background-size: 175px 151.5px; content: ''; }
+.talk-select-pop .lst-counsel a.btn-naver:after { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px 0px; background-size: 175px 151.5px; content: ''; }
+.talk-select-pop .lst-counsel a.btn-happy:after { display: inline-block; width: 45px; height: 45px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -50px; background-size: 175px 151.5px; content: ''; }
+.touristinfo { display: none; margin-bottom: 25px; }
+.touristinfo.is-open { display: block; }
+.touristinfo .tit-person { margin: 0 0 7px; padding: 8px 0 9px; border-bottom: 1px solid #333; }
+.touristinfo .tit-person .age { font-size: 0.9375rem; font-weight: 500; }
+.touristinfo .tit-person .age:before { display: inline-block; margin-right: 7px; display: inline-block; width: 14px; height: 15px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -160px -107px; background-size: 175px 151.5px; content: ''; margin-top: -2px; vertical-align: middle; }
+.touristinfo .tit-person .essential { font-size: 0.8125rem; color: #f54a36; float: right; }
+.touristinfo .tit-person .representative { margin-left: 5px; font-size: 0.8125rem; color: #44c866; }
+.touristinfo .tit-person .satue { float: right; padding: 2px 6px 3px; border: 1px solid #f54a36; font-size: 0.75rem; color: #f54a36; }
+.touristinfo .txt-doublecheck { margin: 0 0 5px; color: #f54a36; font-size: 0.75rem; }
+.touristinfo .invalid-txt { display: none; position: relative; width: 100%; padding: 5px 0 0; color: #f54a36; margin-top: -1px; border-top: 1px solid #f54a36; font-size: 0.75rem; }
+.touristinfo .row { margin: 0 0 8px; overflow: hidden; }
+.touristinfo .row .essential { color: #f54a36; }
+.touristinfo .input-wrap { position: relative; width: 100%; padding-top: 1rem; }
+.touristinfo .input-wrap.off .label { position: absolute; left: 0; top: 0; height: 1rem; line-height: 1rem; color: #979797; font-size: 0.75rem; }
+.touristinfo .input-wrap.off input[type=tel]::-webkit-input-placeholder { padding-left: 0; }
+.touristinfo .input-wrap .label { position: absolute; left: 0; top: 1rem; display: block; height: 1.75rem; line-height: 1.75rem; -webkit-transition: all .2s; transition: all .2s; }
+.touristinfo .input-wrap .input { width: 100%; height: 1.75rem; line-height: 1.75rem; padding: 0; border: none; border-bottom: 1px solid #e6e6e6; outline: none; color: #333; font-size: 0.8125rem; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.touristinfo .input-wrap .input::-webkit-input-placeholder { color: #c0c0c0; }
+.touristinfo .input-wrap .input[type=tel]::-webkit-input-placeholder { padding-left: 4.875rem; }
+.touristinfo .input-wrap .input:disabled { opacity: 1; -webkit-text-fill-color: inherit; background: #fff; }
+.touristinfo .select-wrap { position: relative; }
+.touristinfo .select-wrap:after { position: absolute; right: 0; top: 50%; content: ''; display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; }
+.touristinfo .inner { float: left; width: 47%; }
+.touristinfo .inner:last-child { float: right; }
+.touristinfo .select { width: 100%; padding: 9px 9px 9px 0; box-sizing: border-box; border-radius: 0; border: none; font-size: 0.875rem; color: #333; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; border-bottom: 1px solid #e6e6e6; }
+.touristinfo .select:focus { outline: none; }
+.touristinfo .sending-wrap { position: relative; width: 100%; padding-top: 0.9375rem; border-bottom: 1px solid #e6e6e6; }
+.touristinfo .sending-wrap .tit-label { display: inline-block; margin-right: 11px; height: 1.75rem; line-height: 1.75rem; }
+.touristinfo .sending-wrap input:checked + .label { color: #44c866; }
+.touristinfo .sending-wrap input:checked + .label:before { display: inline-block; margin-right: 5px; content: ''; display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -21.5px -135px; background-size: 175px 151.5px; }
+.touristinfo .sending-wrap .label { display: inline-block; margin-right: 17px; height: 1.75rem; line-height: 1.75rem; color: #979797; }
+.touristinfo .sending-wrap .label:before { display: inline-block; margin-right: 5px; content: ''; display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -161.5px -80.5px; background-size: 175px 151.5px; }
+.touristinfo .txt-sending { padding-top: 6px; margin-bottom: -2px; font-size: 0.8125rem; color: #9e9e9e; }
+.touristinfo .txt-sending2 { margin-top: 15px; background: #f8f8f8; border-radius: 2px; overflow: hidden; }
+.touristinfo .txt-sending2 .btn-tog { position: relative; display: block; height: 2.375rem; line-height: 2.375rem; padding: 0 15px; font-size: 0.8125rem; }
+.touristinfo .txt-sending2 .btn-tog:after { position: absolute; right: 15px; top: 50%; display: inline-block; width: 7.5px; height: 4.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -62px; background-size: 175px 151.5px; margin-top: -2px; content: ''; -webkit-transition: all .3s; transition: all .3s; }
+.touristinfo .txt-sending2 .btn-tog.is-open:after { -webkit-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg); }
+.touristinfo .txt-sending2 .btn-tog.is-open + .tog-con { display: block; }
+.touristinfo .txt-sending2 .tog-con { display: none; border-top: 1px solid #e6e6e6; }
+.touristinfo .txt-sending2 .tog-con .tit { position: relative; display: block; margin: 0 0 5px; padding: 0 0 0 8px; }
+.touristinfo .txt-sending2 .tog-con .tit:before { position: absolute; left: 0; top: 8px; display: block; width: 2px; height: 2px; border-radius: 100%; content: ''; background: #333; }
+.touristinfo .txt-sending2 .tog-con p { margin: 13px 0 13px; padding: 0 15px; font-size: 0.8125rem; }
+.touristinfo .txt-sending2 .tog-con .em { color: #f54a36; }
+.chk-ipt { position: absolute; left: -999em; top: 0; display: none; visibility: hidden; width: 0; height: 0; }
+.chk-label { display: block; padding-left: 25px; color: #333; }
+.chk-label:before { display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -161.5px -80.5px; background-size: 175px 151.5px; content: ''; vertical-align: middle; margin: -3px 5px 0; position: absolute; left: 0; top: 1.0625rem; }
+.chk-ipt:checked + .chk-label:before { display: inline-block; width: 12.5px; height: 12.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -21.5px -135px; background-size: 175px 151.5px; }
+.label-textarea { display: block; margin: 16px 0 12px; }
+.textarea-wrap { position: relative; padding: 0 0 5px; }
+.textarea-wrap:after { position: absolute; left: 0; bottom: 1px; display: block; width: 100%; height: 1px; content: ''; background: #e6e6e6; }
+.textarea { display: block; width: 100%; height: 2.625rem; border-radius: 0; border: 1px solid #fff; padding: 0; overflow: auto; overflow-x: hidden; color: #979797; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 0.8125rem; }
+.textarea::-webkit-input-placeholder { color: #c0c0c0; }
+.textarea:focus { outline: none; }
+.textarea:disabled { background: #fff; }
+.reser-content-write { color: #333; }
+.reser-content-write .sec-tit .mile { float: right; padding-right: 18px; color: #44c866; }
+.reser-content-write .em2 { color: #44c866; }
+.reser-content-write .em { color: #f54a36; }
+.reser-content-write .lst-txt { margin: 0 0 6px; }
+.reser-content-write .txt-notice { position: relative; padding: 12px 23px 12px 53px; color: #f54a36; font-size: 0.8125rem; }
+.reser-content-write .txt-notice:after { position: absolute; left: 23px; top: 12px; display: inline-block; width: 20px; height: 20px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -107px; background-size: 175px 151.5px; content: ''; }
+.reser-content-write .tit-pha { font-weight: normal; margin: 0 0 7px 0; }
+.reser-content-write .participate { margin: 0 -10px 22px -10px; padding: 11px 0; text-align: center; border: 2px; background: #f8f8f8; }
+.reser-content-write .participate .chk-label { display: inline-block; margin-left: 0 0 0 7px; padding-left: 0; }
+.reser-content-write .participate .chk-label:before { position: static; left: auto; top: auto; }
+.reser-content-write .btn-state-con { display: block; margin: 0 0 40px; overflow: hidden; }
+.reser-content-write .btn-state-con .subj { float: left; width: 20%; padding: 4px 0; font-weight: bold; }
+.reser-content-write .btn-state-con .headcount { position: relative; float: right; width: 80%; padding: 4px 0; border-bottom: 1px solid #e6e6e6; }
+.reser-content-write .btn-state-con .headcount:after { position: absolute; right: 0; top: 50%; content: ''; display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; }
+.reser-content-write .btn-more-person { display: block; width: 100%; height: 1.3125rem; margin: 20px 0 15px; text-align: center; color: #9e9e9e; font-size: 0.875rem; }
+.reser-content-write .btn-more-person:after { display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -161.5px -98px; background-size: 175px 151.5px; content: ''; margin: -1px 0 0 5px; vertical-align: middle; }
+.reser-content-write .btn-more-person.is-show:after { margin-top: -2px; -webkit-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg); }
+.reser-content-write .termagree .lst-terms { margin: -9px 0 20px; }
+.reser-content-write .termagree .lst-terms li { position: relative; padding: 10px 3.75rem 10px 0; border-bottom: 1px solid #e6e6e6; }
+.reser-content-write .termagree .invalid-txt { position: relative; display: none; width: 100%; padding-left: 25px; color: #f54a36; font-size: 0.75rem; }
+.reser-content-write .termagree .btn-view-term { position: absolute; right: 0; top: 0; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: end; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; width: 3.75rem; height: 100%; font-size: 0.75rem; color: #979797; }
+.reser-content-write .termagree .txt-caution { margin: 20px 0; font-size: 0.875rem; color: #979797; }
+.reser-content-write .termagree .txt-caution.em { padding: 0 23px; color: #f54a36; }
+.reser-content-write .termagree.is-open + .txt-goshow { margin-top: -32px; border-top: none; }
+.reser-content-write .txt-goshow { position: relative; padding: 20px 20px 32px; border-top: 1px solid #e6e6e6; font-size: 0.875rem; color: #f54a36; background: #fff; }
+.reser-content-write .sec-statement { position: fixed; top: auto; left: 0; bottom: 2.8125rem; display: block; width: 100%; height: 4.25rem; z-index: 2; }
+.reser-content-write .sec-statement.is-open { height: 100%; }
+.reser-content-write .sec-statement.is-open .lst-fare, .reser-content-write .sec-statement.is-open .change, .reser-content-write .sec-statement.is-open .lst-detail, .reser-content-write .sec-statement.is-open .screen { display: block; }
+.reser-content-write .sec-statement .screen { position: absolute; left: 0; top: 0; display: none; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.7); }
+.reser-content-write .sec-statement .state-con-wrap { width: 100%; height: 100%; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: end; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; }
+.reser-content-write .sec-statement .btn-view-more { position: relative; display: block; width: 100%; height: 1.5rem; }
+.reser-content-write .sec-statement .btn-view-more:before { position: absolute; left: 0; bottom: 0; display: block; width: 100%; height: 1px; background: #333; content: ''; }
+.reser-content-write .sec-statement .btn-view-more:after { position: absolute; left: 50%; bottom: 0; content: ''; margin-left: -20px; display: inline-block; width: 40px; height: 15.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px 0px; background-size: 175px 151.5px; }
+.reser-content-write .sec-statement .state-con { position: relative; width: 100%; max-height: 80%; overflow: hidden; overflow-y: auto; -webkit-overflow-scrolling: touch; word-break: break-all; background: #fff; }
+.reser-content-write .sec-statement .lst-fare { display: none; padding-top: 9px; }
+.reser-content-write .sec-statement .lst-fare li { height: 85px; padding: 9px 23px 9px; font-size: 0.875rem; border-bottom: 1px solid #e6e6e6; overflow: hidden; }
+.reser-content-write .sec-statement .lst-fare li.disabled { color: #ccc; }
+.reser-content-write .sec-statement .lst-fare li.disabled .itm-tit span { color: #ccc; }
+.reser-content-write .sec-statement .lst-fare li.disabled .rate .bunker { color: #ccc; }
+.reser-content-write .sec-statement .itm-tit { height: 25px; }
+.reser-content-write .sec-statement .itm-tit span { color: #979797; font-weight: normal; }
+.reser-content-write .sec-statement .adjust { position: relative; float: left; width: 4.0625rem; padding: 0 1.125rem; text-align: center; }
+.reser-content-write .sec-statement .adjust .btn-minus { position: absolute; left: 0; top: 0; width: 1.125rem; height: 100%; padding: 0; text-align: left; border: none; }
+.reser-content-write .sec-statement .adjust .btn-minus:after { display: inline-block; width: 17px; height: 17px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -100px; background-size: 175px 151.5px; margin-top: -2px; content: ''; vertical-align: middle; }
+.reser-content-write .sec-statement .adjust .btn-plus { position: absolute; right: 0; top: 0; width: 1.125rem; height: 100%; padding: 0; text-align: right; border: none; }
+.reser-content-write .sec-statement .adjust .btn-plus:after { display: inline-block; width: 17px; height: 17px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -70px; background-size: 175px 151.5px; margin-top: -2px; content: ''; vertical-align: middle; }
+.reser-content-write .sec-statement .rate { float: right; text-align: right; }
+.reser-content-write .sec-statement .rate .rank-price { font-weight: bold; }
+.reser-content-write .sec-statement .rate .bunker { font-size: 0.75rem; color: #979797; }
+.reser-content-write .sec-statement .change { display: none; text-align: center; }
+.reser-content-write .sec-statement .change .txt-bunker { padding: 10px 23px; font-size: 0.75rem; color: #979797; }
+.reser-content-write .sec-statement .change .btn-area { margin: 0 0 15px; }
+.reser-content-write .sec-statement .change .btn-area a { display: inline-block; min-width: 7.1875rem; height: 2.0625rem; padding: 0 15px; line-height: 1.9375rem; font-size: 0.875rem; color: #44c866; border: 1px solid #44c866; border-radius: 20px; }
+.reser-content-write .sec-statement .total { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; padding: 11px 23px 11px; margin-top: -2px; border-top: 1px solid #333; font-size: 0.875rem; }
+.reser-content-write .sec-statement .total span { color: #44c866; font-weight: bold; }
+.reser-content-write .sec-statement .lst-detail { display: none; padding: 0 23px 11px; font-size: 0.875rem; color: #979797; }
+.reser-content-write .sec-statement .lst-detail li { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
+.reser-content-write .btn-reserve { position: fixed; left: 0; bottom: 0; display: block; width: 100%; z-index: 1; height: 2.8125rem; line-height: 2.8125rem; font-size: 0.9375rem; background: #44c866; color: #fff; text-align: center; }
+.login-nonmember { position: absolute; top: 0; left: 0; display: none; width: 100%; height: 100%; z-index: 1000; -webkit-overflow-scrolling: auto; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.login-nonmember * { box-sizing: border-box; }
+.login-nonmember .screen { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.7); }
+.login-nonmember .pop-tit { position: relative; z-index: 1; }
+.login-nonmember .pop-tit .btn-close { position: absolute; right: 0; top: 51px; display: block; width: 18px; height: 18px; padding: 25px 26px; cursor: pointer; overflow: hidden; display: inline-block; text-indent: -9999px; white-space: nowrap; line-height: 0; }
+.login-nonmember .pop-tit .btn-close:before { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); }
+.login-nonmember .pop-tit .btn-close:after { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.login-nonmember .pop-con { position: relative; display: block; width: 100%; height: 100%; margin-top: 51px; padding: 45px 24px 51px; overflow: hidden; overflow-y: auto; word-break: break-all; background: #f8f8f8; box-sizing: border-box; }
+.login-nonmember .tit_benefit { display: block; margin: 0 0 20px; font-weight: bold; color: #111; }
+.login-nonmember .tit_benefit img { display: inline-block; width: 78px; margin-top: -4px; margin-right: 1px; vertical-align: middle; }
+.login-nonmember .links { margin: 0 0 17px; }
+.login-nonmember .links li { display: block; padding: 15px 15px 15px 0; font-size: 0.875rem; line-height: 1.7; letter-spacing: -0.07em; color: #333; border-bottom: 1px solid #ccc; }
+.login-nonmember .links a { position: relative; display: block; text-decoration: none; color: #333; }
+.login-nonmember .links a:before { position: absolute; top: 50%; right: 0; content: ''; margin: 0 0 0 -10px; width: 5px; height: 1px; background: #333; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); -webkit-transform-origin: right; -ms-transform-origin: right; transform-origin: right; }
+.login-nonmember .links a:after { position: absolute; top: 50%; right: 0; content: ''; margin: 0 0 0 -5px; width: 5px; height: 1px; background: #333; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); -webkit-transform-origin: right; -ms-transform-origin: right; transform-origin: right; }
+.login-nonmember .links li:last-child { border-bottom: none; }
+.login-nonmember .mile { color: #36ce6a; font-weight: bold; }
+.login-nonmember .important { color: #f54a36; font-weight: bold; }
+.login-nonmember .btn_signin { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; margin: 0 0 19px; text-align: center; }
+.login-nonmember .btn_signin a { -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; width: 50%; height: 32px; margin-left: 10px; font-size: 0.8125rem; line-height: 30px; box-sizing: border-box; border: 1px solid #36ce6a; background: #fff; color: #36ce6a; border-radius: 3px; text-decoration: none; }
+.login-nonmember .btn_signin a:first-child { margin-left: 0; background: #36ce6a; color: #fff; }
+.login-nonmember .link_no_member { display: block; width: 100%; margin: 0 0 25px; text-align: center; color: #8a8a8a; font-size: 0.75rem; text-decoration: underline !important; }
+.login-nonmember .txt_connet { margin: 0 0 25px; font-size: 0.75rem; color: #8a8a8a; text-align: center; }
+.login-nonmember .txt_connet .em { color: #ed4949; }
+.login-nonmember .txt_connet .confirm { font-weight: bold; }
+.login-nonmember .txt_connet a { font-size: 0.75rem; color: #8a8a8a; text-decoration: underline; }
+.pageout-pop-wrap { position: absolute; top: 0; left: 0; display: none; width: 100%; height: 100%; z-index: 1000; -webkit-overflow-scrolling: auto; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.pageout-pop-wrap * { box-sizing: border-box; }
+.pageout-pop-wrap .screen { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.7); }
+.pageout-pop-wrap .pop-wrap { position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); display: block; width: calc(100% - 20px); overflow: hidden; overflow-y: auto; word-break: break-all; box-sizing: border-box; background: #fff; padding: 25px 20px 30px; border-radius: 5px; }
+.pageout-pop-wrap .pop-tit { position: relative; z-index: 1; font-size: 0.9375rem; margin: 0 0 15px; }
+.pageout-pop-wrap .pop-tit .btn-close { position: absolute; right: -20px; top: -16px; display: block; width: 18px; height: 18px; padding: 25px 26px; cursor: pointer; overflow: hidden; display: inline-block; text-indent: -9999px; white-space: nowrap; line-height: 0; }
+.pageout-pop-wrap .pop-tit .btn-close:before { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); }
+.pageout-pop-wrap .pop-tit .btn-close:after { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.pageout-pop-wrap .pop-tit .head { font-size: 0.9375rem; color: #444; font-weight: bold; }
+.pageout-pop-wrap .b-gall { margin: 0 0 15px; }
+.pageout-pop-wrap .b-gall a { position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: end; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; height: 200px; padding: 20px 23px; color: #fff; font-size: 0.875rem; text-shadow: 0 0 10px rgba(0, 0, 0, 0.3); }
+.pageout-pop-wrap .b-gall a:before { position: absolute; left: 0; top: 0; display: block; width: 100%; height: 100%; content: ''; border-radius: 3px; background: #ccc url(//img.modetour.com/ModeMobile/2019/itemlist/bg/bg_noimg2.png) no-repeat center 40%; background-size: 97px; }
+.pageout-pop-wrap .b-gall a .img { position: absolute; left: 0; top: 0; display: block; width: 100%; height: 100%; border-radius: 3px; background-repeat: no-repeat; background-position: center center; background-size: cover; }
+.pageout-pop-wrap .b-gall a .img:after { position: absolute; left: 0; top: 0; display: block; width: 100%; height: 100%; content: ''; border-radius: 0 0 2px 2px; overflow: hidden; background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0.65) 100%); background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0.65) 100%); }
+.pageout-pop-wrap .b-gall a .tit { position: relative; width: 100%; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; text-overflow: ellipsis; word-wrap: break-word; overflow: hidden; }
+.pageout-pop-wrap .b-gall a .price { position: relative; width: 100%; font-weight: bold; }
+.pageout-pop-wrap .s-gall { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-justify-content: space-around; -ms-flex-pack: distribute; justify-content: space-around; margin: 0 0 20px; }
+.pageout-pop-wrap .s-gall li { -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; margin-left: 15px; }
+.pageout-pop-wrap .s-gall li:first-child { margin-left: 0; }
+.pageout-pop-wrap .s-gall a { position: relative; display: block; color: #333; }
+.pageout-pop-wrap .s-gall a:before { position: absolute; left: 0; top: 0; display: block; width: 100%; height: 95px; content: ''; border-radius: 3px; background: #ccc url(//img.modetour.com/ModeMobile/2019/itemlist/bg/bg_noimg.png) no-repeat center 52%; background-size: 35px; }
+.pageout-pop-wrap .s-gall a .img { position: relative; display: block; width: 100%; height: 95px; margin: 0 0 8px; border-radius: 3px; background-repeat: no-repeat; background-position: center center; background-size: cover; }
+.pageout-pop-wrap .s-gall a .tit { display: block; width: 100%; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; text-overflow: ellipsis; word-wrap: break-word; overflow: hidden; font-size: 0.75rem; }
+.pageout-pop-wrap .s-gall a .tit span { color: #a6a6a6; font-weight: normal; }
+.pageout-pop-wrap .s-gall a .price { display: block; width: 100%; position: relative; font-weight: bold; font-size: 0.8125rem; }
+.pageout-pop-wrap .btn-area { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; -webkit-justify-content: space-around; -ms-flex-pack: distribute; justify-content: space-around; }
+.pageout-pop-wrap .btn-area a, .pageout-pop-wrap .btn-area button { display: block; width: 100%; height: 1.875rem; line-height: 1.6875rem; margin-left: 11px; border: 1px solid #43c866; background: #43c866; color: #fff; text-align: center; border-radius: 2px; font-size: 0.75rem; }
+.pageout-pop-wrap .btn-area a:first-child, .pageout-pop-wrap .btn-area button:first-child { margin-left: 0; background: #fff; color: #43c866; }
+.reser-content-result { min-height: 80vh; padding: 50px 0; background-color: #f8f8f8; text-align: center; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; color: #333; }
+.reser-content-result .result-wrap { width: 100%; }
+.reser-content-result .txt-complete { position: relative; width: 100%; padding-top: 43px; margin: 0 0 7px; font-weight: bold; font-size: 1rem; color: #333; }
+.reser-content-result .txt-complete:before { display: inline-block; width: 31px; height: 31px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px -50px; background-size: 175px 151.5px; position: absolute; left: 50%; top: 0; margin-left: -15px; content: ''; }
+.reser-content-result .txt-complete2 { margin: 0 0 12px; color: #9a9a9a; font-size: 0.875rem; }
+.reser-content-result .txt-complete3 { width: 70%; height: 2.5rem; line-height: 2.5rem; margin: 0 auto 35px; font-size: 0.875rem; color: #9a9a9a; background-color: #fff; border-radius: 3px; }
+.reser-content-result .txt-complete3 span:first-child:after { display: inline-block; margin: 0 16px 0 20px; width: 1px; height: 10px; margin-top: -3px; background: #dddddd; content: ''; vertical-align: middle; }
+.reser-content-result .txt-complete4 { margin: 0 0 8px; font-size: 0.875rem; }
+.reser-content-result .txt-complete5 { padding: 20px 20px 0; margin: 0 0 12px; color: #333; font-size: 0.875rem; border-top: 1px solid #e6e6e6; }
+.reser-content-result .chat-box { padding: 20px 0 0; margin: 0 13px; background-color: #fff; font-size: 0.875rem; color: #333; border-radius: 3px; overflow: hidden; }
+.reser-content-result .chat-box .tit-complete { margin: 0 0 10px; font-size: 0.8125rem; color: #9a9a9a; font-weight: normal; }
+.reser-content-result .chat-box ul { margin: 0 0 25px; }
+.reser-content-result .chat-box li { display: inline-block; margin: 0 7px; }
+.reser-content-result .chat-box li a { vertical-align: top; }
+.reser-content-result .chat-box li .btn_sns_kakao:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -35px; background-size: 175px 151.5px; content: ''; }
+.reser-content-result .chat-box li .btn_sns_naver:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -100px; background-size: 175px 151.5px; content: ''; }
+.reser-content-result .chat-box li .btn_sns_happy:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px 0px; background-size: 175px 151.5px; content: ''; }
+.reser-content-result .chat-box .btn-signin-wrap { width: 38%; margin: 0 auto; margin-bottom: 25px; height: 2rem; padding: 1px; background: -webkit-linear-gradient(315deg, #43c866 30%, #2fb8c1 70%); background: linear-gradient(135deg, #43c866 30%, #2fb8c1 70%); border-radius: 1rem; }
+.reser-content-result .chat-box .btn-signin-wrap .btn-signin { display: block; padding: 0 20px; height: 1.875rem; line-height: 1.8125rem; text-align: center; font-size: 0.875rem; background: #fff; color: #fff; border-radius: 0.9375rem; overflow: hidden; }
+.reser-content-result .chat-box .btn-signin-wrap .btn-signin span { background: -webkit-linear-gradient(left, #43c866, #2fb8c1); background: linear-gradient(to right, #43c866, #2fb8c1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.reser-content-result .btn-confirm { position: fixed; left: 0; bottom: 0; display: block; width: 100%; z-index: 1; height: 2.8125rem; line-height: 2.8125rem; font-size: 0.9375rem; background: #43c866; color: #fff; }
+.reser-content-terms { padding-bottom: 50px; color: #333; }
+.reser-content-terms .sec-box:first-child { margin-top: 0px; }
+.reser-content-terms .sec-box:first-child:before, .reser-content-terms .sec-box:first-child:after { content: none; }
+.reser-content-terms .sec-box .sec-con { padding: 12px 23px 12px; }
+.reser-content-terms .touristinfo { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; padding-top: 5px; margin: 0 0 8px; }
+.reser-content-terms .touristinfo li { width: 50%; padding: 0 0 3px; margin: 0 0 10px; border-bottom: 1px solid #e6e6e6; vertical-align: top; }
+.reser-content-terms .touristinfo li:nth-child(odd) { width: calc(50% - 22px); margin-right: 22px; }
+.reser-content-terms .touristinfo li .tit { display: block; margin: 0 0 1px; color: #979797; font-size: 0.75rem; }
+.reser-content-terms .touristinfo li .txt { display: block; color: #333; font-size: 0.875rem; }
+.reser-content-terms .lst-terms { margin: -5px 0 15px; }
+.reser-content-terms .lst-terms li { position: relative; padding: 10px 3.75rem 10px 0; border-bottom: 1px solid #e6e6e6; }
+.reser-content-terms .invalid-txt { position: relative; display: none; width: 100%; padding-left: 25px; color: #f54a36; font-size: 0.75rem; }
+.reser-content-terms .btn-view-term { position: absolute; right: 0; top: 0; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: end; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; width: 3.75rem; height: 100%; font-size: 0.75rem; color: #979797; }
+.reser-content-terms .txt-caution { margin: 0 0 4px; font-size: 0.875rem; color: #333; }
+.reser-content-terms .btn-area { margin: 0 0 15px; text-align: center; }
+.reser-content-terms .btn-area a { display: inline-block; height: 2.0625rem; padding: 0 16px; line-height: 2.0625rem; font-size: 0.8125rem; color: #fff; background: #44c866; border-radius: 20px; }
+.reser-content-detail { color: #333; }
+.reser-content-detail .sec-box.sec_progress { margin-top: 0px; }
+.reser-content-detail .sec-box.sec_progress:before, .reser-content-detail .sec-box.sec_progress:after { content: none; }
+.reser-content-detail .sec-box.sec_progress .sec-con { padding: 20px 24px; }
+.reser-content-detail .sec-box.cancelrule { border-bottom: 1px solid #e6e6e6; }
+.reser-content-detail .prgrs-wrap { padding: 15px; margin: 0 0 22px; background: #f8f8f8; border-radius: 2px; }
+.reser-content-detail .prgrs-wrap.is-open .prgrs-con { display: block; }
+.reser-content-detail .prgrs-wrap.is-open .btn-prgrs:after { -webkit-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg); }
+.reser-content-detail .prgrs-wrap .prgrs-state { position: relative; padding-left: 29px; margin-bottom: 2px; font-size: 0.875rem; color: #f54a36; }
+.reser-content-detail .prgrs-wrap .prgrs-state:before { display: inline-block; width: 20px; height: 20px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -107px; background-size: 175px 151.5px; content: ''; position: absolute; left: 0px; top: 0px; }
+.reser-content-detail .prgrs-wrap .btn-prgrs { display: block; text-align: center; color: #333; text-decoration: underline; font-size: 0.875rem; }
+.reser-content-detail .prgrs-wrap .btn-prgrs:after { display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; content: ''; margin-left: 10px; vertical-align: middle; -webkit-transition: all .3s; transition: all .3s; }
+.reser-content-detail .prgrs-wrap .prgrs-con { display: none; padding: 12px 0 0; font-size: 0.8125rem; }
+.reser-content-detail .prgrs-wrap .prgrs-con .tit { margin: 0 0 10px; font-size: 0.8125rem; }
+.reser-content-detail .prgrs-wrap .prgrs-con .lst-txt { margin: 0 0 20px; }
+.reser-content-detail .prgrs-wrap .prgrs-con .lst-txt li { padding-left: 0.9375rem; text-indent: -0.9375rem; }
+.reser-content-detail .prgrs-wrap .prgrs-con .lst-txt li:after { content: none; }
+.reser-content-detail .prgrs-wrap .prgrs-con .payment { margin-top: -12px; padding: 0 0 0 17px; }
+.reser-content-detail .prgrs-wrap .prgrs-con .payment .tit-mean:before { content: ''; display: inline-block; width: 9px; height: 6.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -50.5px; background-size: 175px 151.5px; margin-top: -3px; margin-right: 5px; vertical-align: middle; }
+.reser-content-detail .prgrs-wrap .prgrs-con .payment .lst-txt { margin: 0 0 0; padding: 0 0 0 13px; }
+.reser-content-detail .prgrs-wrap .prgrs-con .payment .lst-txt li { margin: 0; }
+.reser-content-detail .info_wrap { margin: 0 0 20px; font-size: 0.8125rem; }
+.reser-content-detail .info_wrap .booking { position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-justify-content: space-around; -ms-flex-pack: distribute; justify-content: space-around; border: 1px solid #e6e6e6; border-radius: 3px; overflow: hidden; }
+.reser-content-detail .info_wrap .booking li { -webkit-box-flex: 1; -webkit-flex: 1 1 auto; -ms-flex: 1 1 auto; flex: 1 1 auto; margin: -1px 0 0 -1px; padding: 11px 14px 11px 20px; border-left: 1px solid #e6e6e6; border-top: 1px solid #e6e6e6; }
+.reser-content-detail .info_wrap .booking li:nth-child(3) { text-align: center; min-width: 100%; }
+.reser-content-detail .info_wrap .booking .item { color: #979797; }
+.reser-content-detail .info_wrap .booking .txt { color: #333; }
+.reser-content-detail .info_wrap .meeting { margin: 0 0 10px; text-align: right; color: #979797; font-size: 0.8125rem; }
+.reser-content-detail .info_wrap .meeting .btn-tpo:before { display: inline-block; width: 10.5px; height: 10.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -71px -135px; background-size: 175px 151.5px; margin-right: 4px; content: ''; }
+.reser-content-detail .info_wrap .meeting .btn-guide { margin-left: 8px; }
+.reser-content-detail .info_wrap .meeting .btn-guide:before { display: inline-block; width: 5.5px; height: 11px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -33.5px; background-size: 175px 151.5px; margin-right: 4px; content: ''; }
+.reser-content-detail .btn-area { text-align: center; }
+.reser-content-detail .btn-area a { display: inline-block; height: 1.875rem; padding: 0 16px; line-height: 1.875rem; font-size: 0.8125rem; color: #fff; background: #f54a36; border-radius: 20px; }
+.reser-content-detail .btn-area a.agree { padding: 0 27px 0 20px; background: #44c866; }
+.reser-content-detail .btn-area a.agree:before { display: inline-block; margin-right: 5px; content: ''; display: inline-block; width: 12.5px; height: 9px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -50px -86px; background-size: 175px 151.5px; }
+.reser-content-detail .item-title { display: block; }
+.reser-content-detail .btn-link { position: absolute; right: 0; top: 0; display: block; width: 2.8125rem; height: 2.8125rem; line-height: 2.8125rem; }
+.reser-content-detail .btn-link:after { position: absolute; right: 23px; top: 50%; display: inline-block; width: 7.5px; height: 4.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -62px; background-size: 175px 151.5px; content: ''; margin-top: -4px; -webkit-transform: rotate(270deg); -ms-transform: rotate(270deg); transform: rotate(270deg); }
+.reser-content-detail .btn-tourist { position: absolute; right: 0; top: 0; display: block; width: 2.8125rem; height: 2.8125rem; line-height: 2.8125rem; }
+.reser-content-detail .btn-tourist:after { position: absolute; right: 23px; top: 50%; display: inline-block; width: 21.5px; height: 21.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -80.5px; background-size: 175px 151.5px; content: ''; margin-top: -11px; }
+.reser-content-detail .touristinfo .btn-input { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; }
+.reser-content-detail .touristinfo .btn-input > a { position: relative; min-height: 2.75rem; margin-left: 4%; padding: 0 0 5px; border-bottom: 1px solid #e6e6e6; vertical-align: bottom; letter-spacing: -0.068em; font-size: 0.8125rem; }
+.reser-content-detail .touristinfo .btn-input > a:nth-child(1) { width: 40%; margin-left: 0; }
+.reser-content-detail .touristinfo .btn-input > a:nth-child(2) { width: 16%; }
+.reser-content-detail .touristinfo .btn-input > a:nth-child(3) { width: 37%; }
+.reser-content-detail .touristinfo .btn-input > a .tit { display: block; margin: 0 0 2px; color: #979797; font-size: 0.75rem; }
+.reser-content-detail .touristinfo .btn-input > a .state { display: block; }
+.reser-content-detail .touristinfo .btn-input > a .state:after { display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; content: ''; margin-left: 3px; vertical-align: middle; margin-top: -2px; -webkit-transform: rotate(270deg); -ms-transform: rotate(270deg); transform: rotate(270deg); }
+.reser-content-detail .touristinfo .btn-input > a .mile { color: #44c866; }
+.reser-content-detail .touristinfo .btn-input > a.set:nth-child(1) > .state:after, .reser-content-detail .touristinfo .btn-input > a.set:nth-child(3) > .state:after { content: none; }
+.reser-content-detail .label-textarea { margin: 25px 0 5px; }
+.reser-content-detail .textarea-wrap { margin: 0 0 18px; }
+.reser-content-detail .textarea { height: auto; overflow: hidden; }
+.reser-content-detail .lst-partner { margin: 0 0 18px; }
+.reser-content-detail .lst-partner > li { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; padding: 7px 0 7px; font-size: 0.875rem; border-bottom: 1px solid #e6e6e6; overflow: hidden; }
+.reser-content-detail .lst-partner > li:first-child { padding-top: 0; }
+.reser-content-detail .lst-partner .i-tit { min-width: 75px; color: #979797; }
+.reser-content-detail .lst-partner .i-txt { width: 100%; color: #333; }
+.reser-content-detail .lst-partner .i-txt .charge { display: inline-block; max-width: 145px; line-height: 30px; }
+.reser-content-detail .lst-partner .lst-counsel { float: right; }
+.reser-content-detail .lst-partner .lst-counsel li { display: inline-block; margin: 0 0 0 4px; }
+.reser-content-detail .lst-partner .lst-counsel a.btn-kakao:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px -35px; background-size: 175px 151.5px; content: ''; vertical-align: top; }
+.reser-content-detail .lst-partner .lst-counsel a.btn-naver:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: 0px -100px; background-size: 175px 151.5px; content: ''; vertical-align: top; }
+.reser-content-detail .lst-partner .lst-counsel a.btn-happy:after { display: inline-block; width: 30px; height: 30px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -100px 0px; background-size: 175px 151.5px; content: ''; vertical-align: top; }
+.reser-content-detail .account-wrap h3 { font-size: 0.875rem; font-weight: normal; }
+.reser-content-detail .account-wrap h3 .em { color: #f54a36; }
+.reser-content-detail .account-wrap .txt-guide { margin: 3px 0 6px; font-size: 0.8125rem; color: #979797; letter-spacing: -0.04em; }
+.reser-content-detail .account-wrap .lst-accnt { position: relative; margin: 0 0 22px; overflow: hidden; min-height: 3rem; overflow: hidden; }
+.reser-content-detail .account-wrap .lst-accnt:before { position: absolute; left: 0; top: 10px; display: block; width: 100%; height: 2.375rem; line-height: 2.375rem; content: '발급된 결제 계좌번호가 없습니다.'; background: #f8f8f8; font-size: 0.875rem; color: #9e9e9e; text-align: center; }
+.reser-content-detail .account-wrap .lst-accnt.virtual { margin: 0 0 10px; }
+.reser-content-detail .account-wrap .lst-accnt.virtual:before { content: '발급된 가상 계좌번호가 없습니다.'; }
+.reser-content-detail .account-wrap .lst-accnt li { position: relative; float: left; width: 50%; padding: 10px 0 3px; background: #fff; z-index: 1; }
+.reser-content-detail .account-wrap .lst-accnt li:before { position: absolute; left: 0; bottom: 0; display: block; width: 95%; height: 1px; content: ''; background: #e6e6e6; }
+.reser-content-detail .account-wrap .lst-accnt li:first-child:after { position: absolute; right: -100%; bottom: 0; display: block; width: 100%; height: 100px; content: ''; background: #fff; }
+.reser-content-detail .account-wrap .lst-accnt li:nth-child(even) { float: right; }
+.reser-content-detail .account-wrap .lst-accnt li:nth-child(even):before { left: auto; right: 0; }
+.reser-content-detail .account-wrap .lst-accnt li .i-bank { display: block; margin: 0 0 2px; color: #979797; font-size: 0.8125rem; }
+.reser-content-detail .account-wrap .lst-accnt li .i-num { display: block; color: #333; font-size: 0.875rem; }
+.reser-content-detail .refund-rule { font-size: 0.875rem; color: #333; }
+.reser-content-detail .refund-rule .txt { margin: 0 0 8px; }
+.reser-content-detail .refund-rule .txt2 { font-size: 0.8125rem; color: #9e9e9e; }
+.reser-content-detail .refund-rule .lst-txt li:after { top: 0.6875rem; width: 4px; height: 1px; }
+.reser-content-detail .bottom-uitl-group { position: fixed; top: auto; left: 0; bottom: 0; display: block; width: 100%; z-index: 2; }
+.reser-content-detail .sec-statement { display: block; width: 100%; height: 4rem; }
+.reser-content-detail .sec-statement.is-open { height: 100vh; }
+.reser-content-detail .sec-statement.is-open .state-con { overflow-y: auto; }
+.reser-content-detail .sec-statement.is-open .screen, .reser-content-detail .sec-statement.is-open .state-con .lst-age, .reser-content-detail .sec-statement.is-open .state-con .lst-detail, .reser-content-detail .sec-statement.is-open .state-con .paid, .reser-content-detail .sec-statement.is-open .state-con .receipt-tb, .reser-content-detail .sec-statement.is-open .state-con .receipt, .reser-content-detail .sec-statement.is-open .state-con .remain { display: block; }
+.reser-content-detail .sec-statement .screen { position: absolute; left: 0; top: 0; display: none; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.7); }
+.reser-content-detail .sec-statement .state-con-wrap { width: 100%; height: 100%; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: end; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; }
+.reser-content-detail .sec-statement .btn-state-more { position: relative; display: block; width: 100%; height: 1.5rem; }
+.reser-content-detail .sec-statement .btn-state-more:before { position: absolute; left: 0; bottom: 0; display: block; width: 100%; height: 1px; background: #333; content: ''; }
+.reser-content-detail .sec-statement .btn-state-more:after { position: absolute; left: 50%; bottom: 0; content: ''; margin-left: -20px; display: inline-block; width: 40px; height: 15.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px 0px; background-size: 175px 151.5px; }
+.reser-content-detail .sec-statement .state-con { position: relative; width: 100%; max-height: 80%; overflow: hidden; -webkit-overflow-scrolling: touch; word-break: break-all; background: #fff; }
+.reser-content-detail .sec-statement .lst-age { display: none; border-bottom: 1px solid #333; }
+.reser-content-detail .sec-statement .lst-age li { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; height: 2.8125rem; line-height: 2.8125rem; padding: 0 23px; font-size: 0.875rem; color: #333; border-top: 1px solid #e6e6e6; }
+.reser-content-detail .sec-statement .lst-age li:first-child { border-top: none; }
+.reser-content-detail .sec-statement .lst-age .price { font-weight: bold; }
+.reser-content-detail .sec-statement .lst-detail { display: none; margin: 0 0 11px; }
+.reser-content-detail .sec-statement .lst-detail li { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; height: 1.25rem; line-height: 1.25rem; padding: 0 23px; font-size: 0.875rem; color: #979797; }
+.reser-content-detail .sec-statement .total { height: 2.5rem; line-height: 2.5rem; padding: 0 23px; font-size: 0.875rem; overflow: hidden; }
+.reser-content-detail .sec-statement .total .txt { float: left; }
+.reser-content-detail .sec-statement .total .price { float: right; color: #44c866; }
+.reser-content-detail .sec-statement .paid { display: none; height: 2.375rem; line-height: 2.375rem; padding: 0 23px; font-size: 0.875rem; border-top: 1px solid #e6e6e6; }
+.reser-content-detail .sec-statement .paid.is-open .btn-viewdetail:before { content: ''; display: inline-block; width: 6px; height: 1px; background: #3d3d3d; margin-right: 4px; vertical-align: middle; }
+.reser-content-detail .sec-statement .paid.is-open + .paid-tb { display: block; }
+.reser-content-detail .sec-statement .paid .btn-viewdetail { display: inline-block; height: 1.3125rem; line-height: 1.1875rem; margin-left: 6px; border: 1px solid #333; padding: 0 7px; border-radius: 2px; font-size: 11px; }
+.reser-content-detail .sec-statement .paid .btn-viewdetail:before { display: inline-block; width: 8px; height: 8px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -20.5px; background-size: 175px 151.5px; content: ''; margin-top: -3px; margin-right: 2px; vertical-align: middle; }
+.reser-content-detail .sec-statement .paid .txt { float: left; }
+.reser-content-detail .sec-statement .paid .price { float: right; font-weight: bold; }
+.reser-content-detail .sec-statement .receipt { display: none; width: 100%; padding: 0 23px; margin: 0 0 6px; text-align: left; font-size: 0.875rem; overflow: hidden; }
+.reser-content-detail .sec-statement .table-wrap { padding: 0 23px; }
+.reser-content-detail .sec-statement .table-wrap .tb-state { margin: 5px 0 15px; border-top: 1px solid #333; border-bottom: 1px solid #333; font-size: 0.8125rem; }
+.reser-content-detail .sec-statement .table-wrap .tb-state caption { display: none; }
+.reser-content-detail .sec-statement .table-wrap .tb-state th { padding: 5px 3px; background: #f8f8f8; font-weight: normal; }
+.reser-content-detail .sec-statement .table-wrap .tb-state td { padding: 5px 3px; border-bottom: 1px solid #e2e2e2; text-align: center; }
+.reser-content-detail .sec-statement .table-wrap .tb-state td.title { text-align: left; }
+.reser-content-detail .sec-statement .table-wrap .tb-state td span { color: #979797; }
+.reser-content-detail .sec-statement .table-wrap.paid-tb { display: none; }
+.reser-content-detail .sec-statement .table-wrap.receipt-tb { display: none; }
+.reser-content-detail .sec-statement .table-wrap.receipt-tb.is-open { display: block; }
+.reser-content-detail .sec-statement .remain { display: none; width: 100%; height: 2.6875rem; line-height: 2.6875rem; padding: 0 23px; font-size: 0.875rem; background: #f8f8f8; overflow: hidden; }
+.reser-content-detail .sec-statement .remain .txt { float: left; font-weight: bold; }
+.reser-content-detail .sec-statement .remain .price { float: right; color: #f54a36; font-weight: bold; }
+.reser-content-detail .sec-statement .remain .price span { margin-right: 10px; font-weight: normal; font-size: 0.8125rem; }
+.reser-content-detail .btn-reserve { position: relative; display: block; width: 100%; height: 2.8125rem; line-height: 2.8125rem; font-size: 0.9375rem; background: #44c866; color: #fff; }
+.pop-reserve-s { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1000; -webkit-overflow-scrolling: auto; }
+.pop-reserve-s .screen { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.8); }
+.pop-reserve-s .pop-wrap { position: relative; z-index: 1; }
+.pop-reserve-s .pop-tit { width: 100%; min-height: 45px; padding: 21px 45px 12px 19px; color: #333; background: #fff; }
+.pop-reserve-s .pop-tit .head { display: block; font-weight: bold; font-size: 1rem; }
+.pop-reserve-s .pop-tit .close { position: absolute; right: 0; bottom: -45px; display: block; width: 45px; height: 45px; padding: 14px; }
+.pop-reserve-s .pop-tit .close:before { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 20px; height: 1px; background: #fff; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); }
+.pop-reserve-s .pop-tit .close:after { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -10px; width: 20px; height: 1px; background: #fff; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.pop-reserve-s .pop-con { display: block; background-color: #fff; padding: 0 15px 20px; overflow: hidden; overflow-y: auto; -webkit-overflow-scrolling: touch; word-break: break-all; color: #333; font-size: 0.8125rem; }
+.pop-reserve-s .lst-txt li:after { top: 0.6875rem; width: 4px; height: 1px; }
+.pop-reserve-s .pop-sec-box { color: #333; }
+.pop-reserve-s .pop-sec-box h2 { margin: 0 0 6px; font-size: 0.8125rem; font-weight: normal; }
+.pop-reserve-s .pop-sec-box .mileage-box { position: relative; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin: 0 0 16px; }
+.pop-reserve-s .pop-sec-box .mileage-box:after { position: absolute; left: 15px; top: 0px; display: block; height: 2rem; line-height: 2rem; content: 'MT'; color: #9e9e9e; }
+.pop-reserve-s .pop-sec-box .mileage-box .input { -webkit-box-flex: 1; -webkit-flex: 1 0 auto; -ms-flex: 1 0 auto; flex: 1 0 auto; height: 2rem; line-height: 2rem; padding: 15px 15px 15px 34px; border: none; background: #f8f8f8; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.pop-reserve-s .pop-sec-box .mileage-box .input::-webkit-input-placeholder { color: #9e9e9e; }
+.pop-reserve-s .pop-sec-box .mileage-box .input:focus::-webkit-input-placeholder { color: #f8f8f8; }
+.pop-reserve-s .pop-sec-box .mileage-box .btn-comfirm { -webkit-box-flex: 1; -webkit-flex: 1 0 auto; -ms-flex: 1 0 auto; flex: 1 0 auto; margin-left: 10px; height: 2rem; line-height: 1.875rem; border: 1px solid #333; border-radius: 2px; }
+.pop-reserve-s .pop-sec-box .txt { padding-left: 8px; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns { margin: 0 0 20px; text-align: center; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns li { display: inline-block; width: 60px; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns a { position: relative; display: inline-block; width: 100%; padding-top: 31px; font-size: 0.6875rem; text-align: center; color: #9e9e9e; opacity: .5; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns a.current { opacity: 1; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns a:after { position: absolute; left: 50%; top: 0; content: ''; margin-left: -13px; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns .btn-kakao:after { display: inline-block; width: 27.5px; height: 27.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -35px -100px; background-size: 175px 151.5px; }
+.pop-reserve-s .pop-sec-box .btn-selec-sns .btn-sms:after { display: inline-block; width: 27.5px; height: 27.5px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -67.5px -100px; background-size: 175px 151.5px; }
+.pop-reserve-s .mobile-regi-wrap { display: none; }
+.pop-reserve-s .mobile-regi-wrap.is-open { display: block; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin: 0 0 25px; overflow: hidden; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .phone-num { -webkit-box-flex: 1; -webkit-flex: 1 0 auto; -ms-flex: 1 0 auto; flex: 1 0 auto; line-height: 2rem; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .mobile-box { width: 100%; margin-left: 21px; -webkit-box-flex: 1; -webkit-flex: 1 1 auto; -ms-flex: 1 1 auto; flex: 1 1 auto; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap { position: relative; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap:first-child .btn-remove-phone { display: none; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap .btn-remove-phone { position: absolute; right: 0; top: 0; width: 2rem; height: 2rem; line-height: 2rem; text-align: right; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap .btn-remove-phone:after { content: ''; display: inline-block; width: 11px; height: 11px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -39px -135px; background-size: 175px 151.5px; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap .input { width: 100%; height: 2rem; line-height: 2rem; border: none; border-bottom: 1px solid #e6e6e6; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.pop-reserve-s .mobile-regi-wrap .insert-wrap .input-wrap .input::-webkit-input-placeholder { color: #9e9e9e; }
+.pop-reserve-s .mobile-regi-wrap .btn-tel-send { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; text-align: center; }
+.pop-reserve-s .mobile-regi-wrap .btn-tel-send .btn-add { -webkit-box-flex: 1; -webkit-flex: auto; -ms-flex: auto; flex: auto; height: 2rem; margin-right: 2px; line-height: 1.875rem; color: #44c866; background: #fff; border-radius: 2px; border: 1px solid #44c866; }
+.pop-reserve-s .mobile-regi-wrap .btn-tel-send .btn-send { -webkit-box-flex: 1; -webkit-flex: auto; -ms-flex: auto; flex: auto; height: 2rem; margin-left: 2px; line-height: 1.875rem; color: #fff; background: #44c866; border-radius: 2px; border: 1px solid #44c866; }
+.pop-reserve-s .tb-pop { table-layout: fixed; width: 100%; margin: 0 0 15px; border-top: 1px solid #333; border-bottom: 1px solid #333; font-size: 0.8125rem; color: #333; }
+.pop-reserve-s .tb-pop caption { display: none; }
+.pop-reserve-s .tb-pop th { padding: 7px 10px; border-bottom: 1px solid #e2e2e2; background: #f8f8f8; font-weight: normal; }
+.pop-reserve-s .tb-pop td { padding: 7px 14px; border-bottom: 1px solid #e2e2e2; }
+.satisfy_pop_wrap { position: absolute; top: 0; left: 0; display: none; width: 100%; height: 100%; z-index: 1000; -webkit-overflow-scrolling: auto; font-family: "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif; }
+.satisfy_pop_wrap * { box-sizing: border-box; }
+.satisfy_pop_wrap .screen { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; background-color: rgba(0, 0, 0, 0.7); }
+.satisfy_pop_wrap .close { position: absolute; right: 0; top: 0; display: block; width: 41px; height: 41px; padding: 15px; overflow: hidden; }
+.satisfy_pop_wrap .close:before { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -8px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg); }
+.satisfy_pop_wrap .close:after { position: absolute; top: 50%; left: 50%; content: ''; margin: 0 0 0 -8px; width: 15px; height: 1px; background: #313333; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.satisfy_pop_wrap .pop-con { position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); display: block; width: calc(100% - 46px); overflow: hidden; overflow-y: auto; word-break: break-all; box-sizing: border-box; background: #fff; border-radius: 10px; }
+.satisfy_pop_wrap .txt { display: block; margin: 28px 20px 20px; color: #111; text-align: center; }
+.satisfy_pop_wrap .txt strong { display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; text-overflow: ellipsis; word-wrap: break-word; overflow: hidden; }
+.satisfy_pop_wrap .txt2 { display: block; margin: 0 20px 11px; color: #111; text-align: center; font-weight: bold; }
+.satisfy_pop_wrap .star-wrap { display: block; width: 250px; height: 25px; margin: 0 auto 32px; text-align: center; }
+.satisfy_pop_wrap .star-wrap a { vertical-align: top; display: inline-block; width: 25px; height: 25px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -50.5px; background-size: 175px 151.5px; }
+.satisfy_pop_wrap .star-wrap a.on { display: inline-block; width: 25px; height: 25px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -135px -20.5px; background-size: 175px 151.5px; }
+.satisfy_pop_wrap .textarea { display: block; width: calc(100% - 40px); height: 89px; padding: 12px 15px 8px; margin: 0 20px 35px; font-size: 0.875rem; box-sizing: border-box; border: 1px solid #e6e6e6; resize: none; color: #111; font-weight: normal; background: #f8f8f8; letter-spacing: -0.04em; }
+.satisfy_pop_wrap .textarea::-webkit-input-placeholder { color: #9a9a9a; }
+.satisfy_pop_wrap .textarea:-ms-input-placeholder { color: #9a9a9a; }
+.satisfy_pop_wrap .textarea::placeholder { color: #9a9a9a; }
+.satisfy_pop_wrap .btn-send { display: block; width: 100%; text-align: center; border-top: 1px solid #e6e6e6; }
+.satisfy_pop_wrap .btn-send a { width: 100%; height: 44px; line-height: 44px; color: #333; font-weight: bold; font-size: 0.9375rem; }
+.satisfy_pop_wrap .btn-send a:after { display: inline-block; content: ''; margin-top: -2px; margin-left: 5px; vertical-align: middle; display: inline-block; width: 7px; height: 4px; overflow: hidden; background-image: url("//img.modetour.com/ModeMobile/2019/reserve/sp_reserve_20200211.png"); background-position: -165px -71.5px; background-size: 175px 151.5px; -webkit-transform: rotate(270deg); -ms-transform: rotate(270deg); transform: rotate(270deg); }
+
+/*# sourceMappingURL=reserve.css.map */
