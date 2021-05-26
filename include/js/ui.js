@@ -59,22 +59,22 @@ $(document).ready(function(){
   }
 
   /*hover*/
-  var $items= $('.portfolio>li a');
-  var $moredetail;
-  $items.on('mouseenter', function(){
-      $moredetail= $(this).find('.desc');
-        $(this).find('>img').stop().animate({
-           left:"-3%",top:"-3%",width:"106%",height:"106%"
-         },300);
-        $moredetail.removeClass('fadeOutDown')
-        $moredetail.addClass('fadeInUp animated');
-    }).on('mouseleave', function(){
-        $(this).find('>img').stop().animate({
-           left:"0",top:"0", width:"100%", height:"100%"
-        },300);    
-        $moredetail.addClass('fadeOutDown');
-        $moredetail.removeClass('fadeInUp')
-    }); 
+  // var $items= $('.portfolio>li a');
+  // var $moredetail;
+  // $items.on('mouseenter', function(){
+  //     $moredetail= $(this).find('.desc');
+  //       $(this).find('>img').stop().animate({
+  //          left:"-3%",top:"-3%",width:"106%",height:"106%"
+  //        },300);
+  //       $moredetail.removeClass('fadeOutDown')
+  //       $moredetail.addClass('fadeInUp animated');
+  //   }).on('mouseleave', function(){
+  //       $(this).find('>img').stop().animate({
+  //          left:"0",top:"0", width:"100%", height:"100%"
+  //       },300);    
+  //       $moredetail.addClass('fadeOutDown');
+  //       $moredetail.removeClass('fadeInUp')
+  //   }); 
 
   /*탑 스크롤*/  
   var $btnTop=$('.bt_top');
