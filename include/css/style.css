@@ -16,10 +16,11 @@ section h2{padding:2.5rem 1.25rem; color: #fff; font-size: 38px;}
 .portfolio_area .portfolio::after{display: block; content: ''; clear: both;}
 .portfolio>li{position: relative; float: left; width:33.3%; height: 490px; margin-bottom: 60px;}
 .portfolio>li .port_box{margin:0 .5rem;}
-.portfolio li .img{position: relative; transition-duration: 0.5s;;}
+.portfolio li .img{width: 350px; height: 272px; position: relative; transition-duration: 0.5s;}
 .portfolio li .img:hover{transform:translate3d(0,-20px,0);}
+.portfolio li .img img{width: 100%;}
 .portfolio li .mb_img{position: absolute; right:0; bottom: 0; width:30%; height: 80%; overflow: hidden;}
-.portfolio img{width: 100%;;}
+.portfolio img{width: 100%;}
 .portfolio .more_detail{margin-top: 30px; text-align: center;}
 .portfolio .more_detail h3{margin-bottom: 10px;; font-size: 20px;}
 .portfolio .more_detail li{line-height: 2; font-size: 14px; }
