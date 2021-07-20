@@ -24,14 +24,15 @@
 
 		.dim{display: none; position: fixed; top:0; left: 0; bottom:0; right: 0; background:rgba(0,0,0,.6); z-index: 50;}
 		.dim.on{display: block;}
-		.layer{display: none; position: absolute; top:60px; left: 50%; margin-left: -400px; width: 800px; background:#fff; z-index: 52;}
+		.layer{display: none; position: absolute; top:60px; left: 50%; margin-left: -400px; width: 800px; background:#fff; z-index: 52; border-radius: 30px;}
 		.layer.open{display: block;}
 		.layer .layer_inner{position: relative;}
-		.layer .layer_header{padding:5px 0; border-bottom: 1px solid #ccc; background-color: #fff;}
-		.layer h2{padding:10px;}
-		.layer .close{position: absolute; top:10px; right:10px; background:none; border:none; cursor: pointer;}
+		/* .layer .layer_header{padding:5px 0; border-bottom: 1px solid #ccc; background-color: #fff;} */
+		.layer h2{display: inline-block; position: relative; padding:20px;}
+		.layer h2::after{display: block; width: 100%; height: 2px; margin-top: 10px; background-color: #ed4949; content: "";}
+		.layer .close{position: absolute; top:20px; right:20px; background:none; border:none; cursor: pointer;}
 		.layer .close::before{display: block; width: 38px; height: 38px; background:url("https://img.modetour.com/modemobile/2018/itinerary/sprite@2x_191014.png") no-repeat -376px -770px; content: "";}
-		.layer .layer_content{padding:80px 40px 40px; text-align: center; height: 500px; overflow-y: scroll; background-color: #fff;}
+		.layer .layer_content{padding:80px 40px 40px; text-align: center;}
 		.layer .layer_content .row{width: 100%; margin-bottom: 40px;}
 		.layer .layer_content .img{display: inline-block; width: 440px; min-height: 250px; overflow: hidden;}
 		.layer .layer_content .img img{width: 100%;} 
@@ -83,14 +84,12 @@
 					
 					$('.dim').addClass('on');
 					$($(this).attr("href")).addClass('open');
-					$('body').addClass('fix');
 				})
 				var $layer=$('.layer');
 				var $layerClose= $layer.find('.close');
 				$layerClose.click(function(){
 					$('.dim').removeClass('on');
 					$('.layer').removeClass('open');
-					$('body').removeClass('fix');
 				})
 				//layer animate
 				var $layerRow= $layer.find('.row');
@@ -104,7 +103,7 @@
 		})(jQuery);
 	</script>
 </head>
-<body class="fix">
+<body>
 	<div class="dim"></div>
 	<div class="container">
 		<div class="wrap mobile">
