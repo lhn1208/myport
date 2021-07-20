@@ -38,11 +38,11 @@
                  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
                  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
 				<style type="text/css">
-                    .event_wrap {position: relative; width:800px; margin:0 auto; font-family: "Noto Sans KR", sans-serif,"Apple SD Gothic Neo",Arial;}
+                    .event_wrap {position: relative; max-width:800px; margin:0 auto; font-family: "Noto Sans KR", sans-serif,"Apple SD Gothic Neo",Arial;}
                     .event_wrap img{vertical-align: middle;}
                     .event_wrap a{background: url('//img.modetour.com/promotion/11024/empty.png');}
                     .event_wrap .main{position: relative;}
-                    .event_wrap .tab_wrap.fixed{position: fixed; top:0; left: 50%; margin-left: -400px; z-index: 199;}
+                    .event_wrap .tab_wrap.fixed{display: none; position: fixed; top:0; left: 50%; margin-left: -400px; z-index: 199;}
                     .event_wrap .tab:after{display: block; content: ""; clear: both;} 
                     .event_wrap .tab li{position: relative; float: left; width:400px; height: 140px; line-height: 1.4; padding:24px 0; border:1px solid #000; font-size: 23px; background:#fff; box-sizing: border-box; cursor: pointer;}
                     .event_wrap .tab li:first-child{border-right: none;}
@@ -118,8 +118,9 @@
                             menu();
                         });
                         function menu(){
+                            var cont3offset=$('.cont3').offset().top-100;
                             var scTop = $(window).scrollTop();
-                            if(scTop>2940){							
+                            if(scTop>=cont3offset){							
                                 $('.event_wrap .tab li').removeClass('on');
                                 $('.event_wrap .tab .tab2').addClass('on');						
                             }else{
@@ -160,12 +161,6 @@
                 </script>		
 				<div class="event_wrap">    
                     <div class="ev_dim"></div>
-                    <div class="tab_wrap">
-                        <ul class="tab">
-                            <li class="tab1 on">방문객 사전검사 프로그램으로<br>입국시 현지 자가격리 면제</li>
-                            <li class="tab2">추석연휴 전세기<br>사전예약 할인가</li>
-                        </ul>
-                    </div>
                     <div class="cont1">
                         <img src="https://img.modetour.com/promotion20/11564/cont1_tit.jpg" alt="안전한 여행을 위해 꼭 알아두세요.">
                         <div class="slider_bg slider-for">
